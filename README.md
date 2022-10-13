@@ -1,6 +1,6 @@
 # Dutch household waste
 
-In this project, I explore data about Dutch household waste in the years 2001-2020. Study topics include:
+In this project, we'llexplore data about Dutch household waste in the years 2001-2020. Study topics include:
 * waste per person, including trends over time
 * breakdown of waste into different waste types
 * correlation between waste figures and municipality characteristics
