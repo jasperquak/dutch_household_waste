@@ -7,7 +7,7 @@ In this project, I explore data about Dutch household waste in the years 2001-20
 
 ## Results
 
-To display the result, simply click the .ipynb file in this repository. It will open in a Notebook viewer.
+To display the result, simply [click the .ipynb file](https://github.com/jasperquak/dutch_household_waste/blob/main/DutchHouseholdWaste.ipynb) in this repository. It will open in a Notebook viewer.
 
 ## Reproduction
 
@@ -32,7 +32,7 @@ However, when using it to translate, it resulted in error message: "AttributeErr
 
 After which it worked.
 
-## Data sources
+## About the data sources
 
 The data that is used in this study was taken from:
 * [CBS](https://www.cbs.nl/), Centraal Bureau voor de Statistiek, or "Central Agency for Statistics", a Dutch governmental institution that gathers statistical information about the Netherlands.
