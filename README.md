@@ -1,6 +1,6 @@
 # Dutch household waste
 
-[Go straightaway to the results](https://github.com/jasperquak/dutch_household_waste/blob/main/DutchHouseholdWaste.ipynb)
+[go straightaway to the results](https://github.com/jasperquak/dutch_household_waste/blob/main/DutchHouseholdWaste.ipynb)
 
 In this project, we'll explore data about Dutch household waste in the years 2001-2020. Study topics include:
 * waste per person, including trends over time
